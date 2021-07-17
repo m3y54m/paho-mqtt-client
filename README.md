@@ -1,4 +1,4 @@
-# Using Paho MQTT Client to Communicate with Adafruit IO
+# Using Paho MQTT for Adafruit IO
 
 Install the prerequisites:
 
